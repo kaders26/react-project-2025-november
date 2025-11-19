@@ -1,6 +1,6 @@
-# 🟦 **Shift Scheduling Application — Technical Assessment Delivery Report**
+# 🟦 **React Project 2025 November**
 
-Bu doküman, Shift Scheduling Application için tarafıma iletilen teknik değerlendirmenin tamamlanmış hâlini içermektedir.
+Bu doküman, React Project 2025 November için tarafıma iletilen teknik değerlendirmenin tamamlanmış hâlini içermektedir.
 
 Proje kapsamında talep edilen tüm fonksiyonlar eksiksiz olarak uygulanmış, ek olarak performans, UX ve sürdürülebilirlik adına çeşitli iyileştirmeler yapılmıştır.
 
